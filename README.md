@@ -17,7 +17,7 @@ To run this application,  use npm start, then the application should work.
 
 ## Live
 
-https://netflixclone-reactapp.netlify.app/
+https://netflix-react-clone-tmdb.netlify.app/
 
 ## Technology
 
