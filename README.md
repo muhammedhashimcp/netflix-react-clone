@@ -10,14 +10,17 @@
 
 ## Introduction
   it is a simple clone of netflix using React and TMDB API. In this clone users can view the demo of the UI of original netflix application. Here we can play the trailers of the movies and serieses.
+  
+  ## Live
+
+https://netflix-react-clone-tmdb.netlify.app/
+
+  ## Demo
+<img src="https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/projects%2FNetflix-home-xl.png?alt=media&token=aba9772c-9d01-44cd-b4d1-109a8a894f83" alt="netflix">
 
 ## Run
 
 To run this application,  use npm start, then the application should work.
-
-## Live
-
-https://netflix-react-clone-tmdb.netlify.app/
 
 ## Technology
 
